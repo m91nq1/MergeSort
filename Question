@@ -1,0 +1,55 @@
+Study the scenario and complete the questions that follow:
+
+
+Alison and Son Digital Electronic Store
+
+
+To create a system for Alison and Son digital electronics store in Johannesburg, South Africa, a recently graduated programmer named Kabelo has been hired. The system needs to have the capacity to sort and search for data due to the volume of transactions that are required. The programming approach used may depend on the data storage layout. 
+
+ 
+
+As an experienced programmer, you have been tasked to demonstrate an implementation of sorting and searching algorithms given a variety of data, taking into account your experience in this field. It is assumed that your idea will help the programmer create the application.
+
+ 
+
+Source: Obaro A (2023)
+
+
+
+
+Applying the principles of Linked List ADT and merge sort: 
+
+2.1 Write a Python program that creates two (2) sets of arrays: 
+
+To create the first array: accept six (6) integers as input and produce an unsorted array of even numbers from 1 to 12
+To create the second array, accept four (4) integers as input and produce an unsorted array of odd numbers between 20 and 40.           
+(5 Marks) 
+
+ 
+
+2.2 Sort the two (2) arrays in Question 2.1 using the Merge Sort function and display the merged array.
+
+Note: The two arrays must first be passed to the function and then merged to produce a sorted array. 
+
+ (20 Marks)
+
+ 
+
+2.3 An array is comparable to a linked list. A distinguishing characteristic of a linked list is its chained-like element that holds the address position of subsequent elements. This is an intricate benefit of linked lists.  
+
+Utilizing the merged sorted array from Question 2.2, create a Python program that:
+
+ 
+
+ a.        Accepts the merged sorted array from Question 2.2 as input, turns it into a single linked list and displays it  in the same  format as the input.
+
+ (5 Marks)
+
+b.         Display the output from Question 2.3.a in a reverse format/order of the initial input.   
+
+   (5 Marks)
+
+c.         Insert the value “45” after the last value in the linked list (reverse order) using the value as a reference and not the index. Print the entire linked list as a proof to show it was appropriately inserted.     
+
+ (5 Marks)
+
